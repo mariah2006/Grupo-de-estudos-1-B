@@ -9,4 +9,28 @@ id=''esquerda''>esquerda</div
            <div id=''rodape''>rodape</div>
         </div>
    </body>
+
+
+
+   <div
+id=''esquerda''>esquerda</div>
+        <hl>lista não ordenada
+        <ul class=''menu''>
+            <li>cafe</li>
+            <li>leite</li>
+            <li>chá</li>
+        </ul>
+        
+    <div id=''centro''>centro</div>
+      <hl>liste ordenada </hl>
+      <ol>
+        <li>animais</li>
+        <li>abelha</li>
+        <li>gato</li>
+    </ol>
+  <div id=''direita''>direita</div>
+  <div id=''rodape''>rodape</div>
+  </div>
+</body>
+</html>>
  
